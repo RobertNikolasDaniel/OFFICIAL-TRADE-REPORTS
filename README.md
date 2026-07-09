@@ -7,4 +7,3 @@ Generated on "Account Statement" ThinkorSwim feature.
 
 PDF Named By date it was created.
 
-Go to "code" if using mobile, else look at left side of screen for statements.
